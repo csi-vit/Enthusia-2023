@@ -71,12 +71,11 @@ body{
 }
 
 .spnrs{
+
     color:#dafef7;
-    display:inline-block;
-    justify-content:space-evenly;
-    margin-top: 5%;
-    margin-left: 8%;
-    margin-bottom: 5%;
+    display:flex;
+    justify-content:center;
+    margin-bottom: 12px;
 }
 
 .hd{
